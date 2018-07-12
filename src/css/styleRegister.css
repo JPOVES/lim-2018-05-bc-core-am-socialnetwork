@@ -197,12 +197,12 @@ section{
 /*Tablets en horizonal y escritorios normales */
 @media (min-width: 1024px) {
     #title{
-        font-size: 5.3em;
-        padding-top: 2%;
+        font-size: 5em;
+        padding-top: 1%;
     }
 
     #logoPrincipal{
-        width: 12%; 
+        width: 10%; 
     }
 
     section{
